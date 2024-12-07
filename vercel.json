@@ -1,0 +1,8 @@
+{
+    "functions": {
+      "api/reactions.js": {
+        "runtime": "nodejs16.x"
+      }
+    }
+  }
+  
